@@ -1,0 +1,23 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  h1 {
+    @apply text-base font-bold;
+  }
+  h2 {
+    @apply text-base;
+  }
+  h3 {
+    @apply text-base;
+  }
+  span,
+  p {
+    @apply text-base;
+  }
+}
+
+.feature-border {
+  @apply border-l-8 border-primary;
+}

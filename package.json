@@ -1,0 +1,24 @@
+{
+  "name": "static-job-listing",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "serve": "TAILWIND_MODE=watch vue-cli-service serve",
+    "build": "TAILWIND_MODE=build vue-cli-service build",
+    "deploy":"sh deploy.sh"
+  },
+  "dependencies": {
+    "autoprefixer": "^9.8.8",
+    "core-js": "^3.6.5",
+    "postcss": "^7.0.39",
+    "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.2.17",
+    "vue": "^3.0.0"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.5.0",
+    "@vue/cli-service": "~4.5.0",
+    "@vue/compiler-sfc": "^3.0.0",
+    "sass": "^1.26.5",
+    "sass-loader": "^8.0.2"
+  }
+}
