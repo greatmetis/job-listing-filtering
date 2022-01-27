@@ -32,12 +32,12 @@ Users should be able to:
 ### Screenshot
 
 ![](src/design/desktop-design.jpg)
-![](src/desin/mobile-with-filters.jpg)
+![](src/design/mobile-with-filters.jpg)
 
 ### Links
 
 - [Solution page on FM](https://www.frontendmentor.io/challenges/job-listings-with-filtering-ivstIPCt/hub/job-listings-with-filtering-W0RIxlNyB)
-- [Live demo]()
+- [Live demo](https://greatmetis.github.io/job-listing-filtering/)
 
 ## My process
 
